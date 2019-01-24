@@ -6,7 +6,7 @@ https://github.com/Warzone2100/warzone2100
 
 this is first version
 
-<img src="https://github.com/UncleJey/war-zone-proto/blob/master/Pics/1486394136190534103.png?raw=true" width="256px">
+<img src="https://github.com/UncleJey/war-zone-proto/blob/master/Pics/1486394136190534103.png?raw=true" width="512px">
 
 Первая версия парсинга моделек данных warzone
 
